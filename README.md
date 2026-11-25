@@ -1,7 +1,5 @@
 # Tong Zhang’s academic website
 
-This static website follows the layout of Nitin Bisht’s academic website and uses a dark colour scheme. It runs without a build step.
-
 ## Publish on GitHub Pages
 
 1. Copy the contents of this directory, including `.nojekyll`, to the root of the intended GitHub repository.
